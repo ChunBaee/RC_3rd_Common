@@ -30,3 +30,9 @@
 🤦🏻 결국 구글링 & 깃허브 등 참고하여 외부 라이브러리를 사용함으로 써 해결했다. ~~( Awesome UI 에도 비슷한 라이브러리가 있었지만, 사용에 필요한 부가 자료가 너무 부족했다..)~~
 
 🤦🏻 해당 이슈는 결국 해결하지 못했다. 새로 받아온 라이브러리의 오버레이 파일도 뜯어보고, 구글링 등등 시도를 해보았지만 해결할 수 없었다고 한다...
+
+
+
+![Screenshot_20220111-185218_RC_Standard_3](https://user-images.githubusercontent.com/80454599/163403062-e8c8edc0-a351-4964-8483-deb228c5aa3f.jpg)
+
+![Screenshot_20220111-185234_RC_Standard_3](https://user-images.githubusercontent.com/80454599/163403096-8e03ca42-84d1-47d2-b53c-acfa9edf1cee.jpg)
